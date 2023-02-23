@@ -20,3 +20,20 @@ The first thing you need to know is that you have to include the next comment at
    * License URI:
    */
 ```
+
+Follow the next steps to clone this repo:
+
+
+## Clone this repository
+
+The first thing you need to do is to open your terminal/cmd, access to the directory where you want to keep your project, then copy and paste this code:
+
+### HTTPS
+
+```git clone https://github.com/jesusalberto18/wordpress-plugin.git```
+
+### SSH
+
+```git clone git@github.com:jesusalberto18/wordpress-plugin.git```
+
+And that's it! It creates a local copy of this repository in your machine.
