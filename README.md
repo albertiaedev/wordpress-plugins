@@ -32,6 +32,12 @@ The first thing you need to do is to open your terminal/cmd, access to the direc
 
 ```git clone https://github.com/jesusalberto18/wordpress-plugin.git```
 
+## Donate
+
+<a href="https://www.paypal.com/paypalme/j2al444">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+</a>
+
 ### SSH
 
 ```git clone git@github.com:jesusalberto18/wordpress-plugin.git```
