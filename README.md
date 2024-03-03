@@ -30,11 +30,11 @@ The first thing you need to do is to open your terminal/cmd, access to the direc
 
 ### HTTPS
 
-```git clone https://github.com/jesusalberto18/wordpress-plugin.git```
+```git clone https://github.com/albertiaedev/wordpress-plugin.git```
 
 ### SSH
 
-```git clone git@github.com:jesusalberto18/wordpress-plugin.git```
+```git clone git@github.com:albertiaedev/wordpress-plugin.git```
 
 And that's it! It creates a local copy of this repository in your machine.
 
